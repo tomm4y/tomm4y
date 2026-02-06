@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=blur&height=150&color=gradient&text=Hi%20I%27m%20Thomas%20%F0%9F%91%8B%F0%9F%8C%8A&textBg=false&section=header&reversal=true&fontAlign=50&fontAlignY=26&fontSize=70" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=160&color=gradient&text=Hi%20I%27m%20Thomas%20%F0%9F%91%8B%F0%9F%8C%8A&textBg=false&section=header&reversal=true&fontAlign=50&fontAlignY=26&fontSize=70" width="100%" />
 
 
 <h1>🏙️ About Me</h1>
