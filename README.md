@@ -14,7 +14,7 @@ Open to collaborating on any projects!
 <h1>💻 Projects</h1>
 
 - 🚀 <b><a href="https://utdnexus.com">Nexus</a></b>: Course-based automation platform integrating web services, backend APIs, and Discord servers for UTD students  
-- 🤖 <b>Nexus Onboarding Bot</b>: Discord bot that automatically gives channels based on students enrolled courses on utdnexus.com
+- 🤖 <b>Nexus Onboarding Bot</b>: Discord bot that automatically gives channel access based on students' enrolled courses on utdnexus.com
 
 <h1>🛠 Tech Stack</h1>
 
